@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BugIt</string>
+    <string name="action_settings">Settings</string>
+
+<!--    General-->
+    <string name="no_internet">Please check internet and try again</string>
+
+
+<!--    ReportBug Activity-->
+    <string name="hint_title_label">Bug Title</string>
+    <string name="hint_description_label">Description</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="image_loading_failed">Downloading Failed.Please try again later</string>
+    <string name="ok">ok</string>
+    <string name="isTitleValid">Please Enter Title with minimum Length of 3 charcters</string>
+    <string name="isDescValid">Please Enter Title with minimum Length of 10 to 300 charcters</string>
+    <string name="isImageValid">Please pick an image</string>
+    <string name="success_sheet_created">Successfully Created New Sheet</string>
+    <string name="success_updated_row">Successfully Updated </string>
+    <string name="title">Title</string>
+    <string-array name="headingArray">
+        <item>Title</item>
+        <item>Description</item>
+        <item>Priority</item>
+        <item>Screenshot</item>
+        <item>Time</item>
+    </string-array>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>

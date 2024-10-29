@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BugIt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BugIt" parent="Base.Theme.BugIt" />
+
+    <!-- Toast Style -->
+    <style name="toastTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+    </style>
+</resources>
